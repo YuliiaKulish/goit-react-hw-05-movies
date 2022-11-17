@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-05-movies/static/js/main.91668f0f.js",
+    "static/js/304.3cf00198.chunk.js": "/goit-react-hw-05-movies/static/js/304.3cf00198.chunk.js",
+    "static/js/603.dc8007a7.chunk.js": "/goit-react-hw-05-movies/static/js/603.dc8007a7.chunk.js",
+    "static/js/285.ec4dec66.chunk.js": "/goit-react-hw-05-movies/static/js/285.ec4dec66.chunk.js",
+    "static/js/328.84b36477.chunk.js": "/goit-react-hw-05-movies/static/js/328.84b36477.chunk.js",
+    "static/js/387.147ff583.chunk.js": "/goit-react-hw-05-movies/static/js/387.147ff583.chunk.js",
+    "static/js/779.db844ccb.chunk.js": "/goit-react-hw-05-movies/static/js/779.db844ccb.chunk.js",
+    "static/js/317.e634e408.chunk.js": "/goit-react-hw-05-movies/static/js/317.e634e408.chunk.js",
+    "static/js/243.8dff1c05.chunk.js": "/goit-react-hw-05-movies/static/js/243.8dff1c05.chunk.js",
+    "static/js/0.96e3f26e.chunk.js": "/goit-react-hw-05-movies/static/js/0.96e3f26e.chunk.js",
+    "index.html": "/goit-react-hw-05-movies/index.html",
+    "main.91668f0f.js.map": "/goit-react-hw-05-movies/static/js/main.91668f0f.js.map",
+    "304.3cf00198.chunk.js.map": "/goit-react-hw-05-movies/static/js/304.3cf00198.chunk.js.map",
+    "603.dc8007a7.chunk.js.map": "/goit-react-hw-05-movies/static/js/603.dc8007a7.chunk.js.map",
+    "285.ec4dec66.chunk.js.map": "/goit-react-hw-05-movies/static/js/285.ec4dec66.chunk.js.map",
+    "328.84b36477.chunk.js.map": "/goit-react-hw-05-movies/static/js/328.84b36477.chunk.js.map",
+    "387.147ff583.chunk.js.map": "/goit-react-hw-05-movies/static/js/387.147ff583.chunk.js.map",
+    "779.db844ccb.chunk.js.map": "/goit-react-hw-05-movies/static/js/779.db844ccb.chunk.js.map",
+    "317.e634e408.chunk.js.map": "/goit-react-hw-05-movies/static/js/317.e634e408.chunk.js.map",
+    "243.8dff1c05.chunk.js.map": "/goit-react-hw-05-movies/static/js/243.8dff1c05.chunk.js.map",
+    "0.96e3f26e.chunk.js.map": "/goit-react-hw-05-movies/static/js/0.96e3f26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.91668f0f.js"
+  ]
+}
